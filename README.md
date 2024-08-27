@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franckwebpro&label=Profile%20views&color=0e75b6&style=flat" alt="franckwebpro" /> </p>
 
-- 🔭 I’m currently working on [LinkerFlow](https://linkerflow.io/)
+- 🔭 I’m currently building [LinkerFlow](https://linkerflow.io/) , launching soon !
 
-- 🌱 I’m currently learning **Supabase**
+- 🌱 I’m currently learning **Advanced Typescript**
 
 - 👨‍💻 All of my projects are available at [https://www.franckwebpro.com/](https://www.franckwebpro.com/)
 
