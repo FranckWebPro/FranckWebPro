@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently building [LinkerFlow](https://linkerflow.io/) , launching soon !
 
-- 🌱 I’m currently learning **Advanced Typescript**
+- 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 All of my projects are available at [https://www.franckwebpro.com/](https://www.franckwebpro.com/)
 
