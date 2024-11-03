@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franckwebpro&label=Profile%20views&color=0e75b6&style=flat" alt="franckwebpro" /> </p>
 
-- 🔭 I’m currently building [LinkerFlow](https://linkerflow.io/) , launching soon !
+- 🔭 I recently launched [LinkerFlow](https://linkerflow.io/) , I'm now improving it !
 
 - 🌱 I’m currently learning **Clean Architecture and Design Patterns**
 
