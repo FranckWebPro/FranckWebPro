@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franckwebpro&label=Profile%20views&color=0e75b6&style=flat" alt="franckwebpro" /> </p>
 
-- 🔭 I recently launched [LinkerFlow](https://linkerflow.io/) , I'm now improving it !
+- 🔭 I recently launched [LinkerFlow](https://linkerflow.io/) , and I'm still working on it to make it the best Webflow internal linking automation Saas !
 
-- 🌱 I’m currently learning **Clean Architecture and Design Patterns**
+- 🌱 I’m currently learning **more on OOP**
 
 - 👨‍💻 All of my projects are available at [https://www.franckwebpro.com/](https://www.franckwebpro.com/)
 
