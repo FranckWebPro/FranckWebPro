@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.franckwebpro.com/](https://www.franckwebpro.com/)
 
-- 📝 I regularly write articles on [https://www.agencenocode.com/blog](https://www.agencenocode.com/blog)
+- 📝 I develop web directories with [Leadsprint.dev](https://www.leadsprint.dev)
 
 - 💬 Ask me about **Webflow**
 
