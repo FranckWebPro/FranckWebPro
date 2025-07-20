@@ -5,13 +5,13 @@
 
 - 🔭 I recently launched [LinkerFlow](https://linkerflow.io/) , and I'm still working on it to make it the best Webflow internal linking automation Saas !
 
-- 🌱 I’m currently learning **more on OOP**
+- 🌱 I’m currently learning **SaaS development**
 
 - 👨‍💻 All of my projects are available at [https://www.franckwebpro.com/](https://www.franckwebpro.com/)
 
 - 📝 I develop web directories with [Leadsprint.dev](https://www.leadsprint.dev)
 
-- 💬 Ask me about **Webflow**
+- 💬 Ask me about **SEO**
 
 - 📫 How to reach me **contact@franckwebpro.com**
 
