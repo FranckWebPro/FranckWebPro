@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Franck</h1>
-<h2 align="center">Next.js/Supabase developer and entrepreneur from France</h2>
+<h2 align="center">LinkerFlow Founder and SeamUI Co-founder </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franckwebpro&label=Profile%20views&color=0e75b6&style=flat" alt="franckwebpro" /> </p>
 
-- 🔭 I recently launched [LinkerFlow](https://linkerflow.io/) , and I'm still working on it to make it the best Webflow internal linking automation Saas !
+- 🔭 I recently launched [SeamUI](https://www.seamui.com/) , and I'm still working on it to make it the best Professional AI image generation application !
 
-- 🌱 I’m currently learning **SaaS development**
+- 🌱 I’m currently learning **Marketing and cold messaging**
 
 - 👨‍💻 All of my projects are available at [https://www.franckwebpro.com/](https://www.franckwebpro.com/)
 
