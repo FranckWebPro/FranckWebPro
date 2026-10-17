@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franckwebpro&label=Profile%20views&color=0e75b6&style=flat" alt="franckwebpro" /> </p>
 
-- 🔭 I recently launched [SeamUI](https://www.seamui.com/) , and I'm still working on it to make it the best Professional AI image generation application !
+- 🔭 I recently launched [SeamUI](https://www.seamui.com/) , and I'm still working on it to make it the best AI Image and Video generation app!
 
 - 🌱 I’m currently learning **Marketing and cold messaging**
 
@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://dev.to/@franckwebpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@franckwebpro" height="30" width="40" /></a>
 <a href="https://twitter.com/franckwebpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="franckwebpro" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/franck-galliod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/franck-galliod/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/franck-gld/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/franck-galliod/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
